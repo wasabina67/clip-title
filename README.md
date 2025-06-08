@@ -3,6 +3,10 @@ ClipTitle 😎
 
 ## Install
 
+### chrome web store
+
+### Developer mode
+
 ## How to use
 
 ## Developer Dashboard
