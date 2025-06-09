@@ -22,6 +22,15 @@ WIP
 
 ### Creating a ZIP file
 
+```bash
+rm -rf cliptitle.zip && zip -r cliptitle.zip * -x "screenshots/*" -x "zip/*"
+```
+
 ### Build / listing
+
+- description
+
+```
+```
 
 ### Build / privacy
