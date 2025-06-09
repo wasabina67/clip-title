@@ -42,4 +42,23 @@ rm -rf cliptitle.zip && zip -r cliptitle.zip * -x "screenshots/*" -x "zip/*"
 4. You can paste it anywhere you like
 ```
 
+- category: Tool
+- language: English
+- screenshot: `1280x800`, `JPEG`
+- Homepage URL
+
+```
+https://github.com/wasabina67/clip-title
+```
+
+- Support URL
+
+```
+https://github.com/wasabina67/clip-title
+```
+
 ### Build / privacy
+
+#### 単一用途
+
+#### 権限が必要な理由
