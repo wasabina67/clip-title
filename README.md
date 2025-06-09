@@ -14,7 +14,7 @@ WIP
 
 ### Developer mode
 
-WIP
+https://github.com/wasabina67/clip-title/raw/refs/heads/main/zip/1.0/cliptitle.zip
 
 ## How to use
 
