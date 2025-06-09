@@ -1,4 +1,7 @@
 # clip-title
+
+WIP
+
 ClipTitle 😎
 
 Quickly copy any webpage title to your clipboard with just one click.
@@ -7,7 +10,11 @@ Quickly copy any webpage title to your clipboard with just one click.
 
 ### chrome web store
 
+WIP
+
 ### Developer mode
+
+WIP
 
 ## How to use
 
