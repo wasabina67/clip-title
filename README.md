@@ -1,6 +1,6 @@
 # clip-title
 
-WIP
+[![Chrome Web Store](https://img.shields.io/chrome-web-store/v/fhjdloooegpencmhkinhoamobgahidkm?logo=google-chrome&logoColor=white&label=Chrome%20Web%20Store&labelColor=4285F4&color=4285F4)](https://chromewebstore.google.com/detail/cliptitle/fhjdloooegpencmhkinhoamobgahidkm)
 
 ClipTitle 😎
 
