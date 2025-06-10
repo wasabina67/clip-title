@@ -10,7 +10,7 @@ Quickly copy any webpage title to your clipboard with just one click.
 
 ### chrome web store
 
-WIP
+https://chromewebstore.google.com/detail/cliptitle/fhjdloooegpencmhkinhoamobgahidkm
 
 ### Developer mode
 
